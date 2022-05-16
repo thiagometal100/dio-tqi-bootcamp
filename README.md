@@ -1,1 +1,1 @@
-# dio-tqi-bootcamp
+Repositório sobre o bootcamp DIO, projeto TQI dev.
