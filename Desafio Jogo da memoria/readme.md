@@ -1,0 +1,1 @@
+Este é o meu projeto de jogo da memória, proposto pelo curso de JavaScript, no bootcamp TQI Fullstack Developer.
