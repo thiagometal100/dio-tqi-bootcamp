@@ -1,1 +1,1 @@
-Repositório sobre o bootcamp DIO, projeto TQI dev.
+Repositório sobre o bootcamp TQI Fullstack Developer, oferecido pela Digital Innovation One.
